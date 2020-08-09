@@ -1,0 +1,10 @@
+<package>
+    <!-- Documentation -->
+	<file>doc/context/third/fullpage/README</file>
+	<file>doc/context/third/fullpage/fullpage-doc.pdf</file>
+	<!-- Source -->
+	<file>tex/context/third/fullpage/t-fullpage.mkii</file>
+	<file>tex/context/third/fullpage/t-fullpage.mkiv</file>
+	<!-- Interface -->
+    <file>tex/context/interface/third/t-fullpage.xml</file>
+</package>
